@@ -1,0 +1,52 @@
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.deps.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.sourcelink.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.csproj.CopyComplete
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\refint\Zust.Entities.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Entities\obj\Debug\net8.0\ref\Zust.Entities.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.deps.json
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.runtimeconfig.json
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.csproj.AssemblyReference.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.AssemblyInfoInputs.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.AssemblyInfo.cs
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Ent.65578E05.Up2Date
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\refint\Zust.Entities.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.genruntimeconfig.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Entities\obj\Debug\net8.0\ref\Zust.Entities.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.deps.json
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.csproj.CopyComplete
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\refint\Zust.Entities.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\Zust.Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Entities\obj\Debug\net8.0\ref\Zust.Entities.dll

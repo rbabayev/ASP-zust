@@ -1,0 +1,60 @@
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.deps.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.runtimeconfig.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.sourcelink.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\refint\Zust.Business.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\ref\Zust.Business.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.csproj.CopyComplete
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.deps.json
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.runtimeconfig.json
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.csproj.AssemblyReference.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.AssemblyInfoInputs.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.AssemblyInfo.cs
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.csproj.CoreCompileInputs.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Bus.C23A3183.Up2Date
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\refint\Zust.Business.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.genruntimeconfig.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Business\obj\Debug\net8.0\ref\Zust.Business.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.deps.json
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.runtimeconfig.json
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Business.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.csproj.CopyComplete
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\refint\Zust.Business.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\Zust.Business.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\obj\Debug\net8.0\ref\Zust.Business.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.DataAccess.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Business\bin\Debug\net8.0\Zust.DataAccess.pdb

@@ -1,0 +1,60 @@
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.deps.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.runtimeconfig.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.sourcelink.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.csproj.CopyComplete
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\refint\Zust.DataAccess.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.DataAccess\obj\Debug\net8.0\ref\Zust.DataAccess.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.deps.json
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.runtimeconfig.json
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.csproj.AssemblyReference.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.AssemblyInfoInputs.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.AssemblyInfo.cs
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.Dat.97DE3E78.Up2Date
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\refint\Zust.DataAccess.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.genruntimeconfig.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\obj\Debug\net8.0\ref\Zust.DataAccess.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Business.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Business.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.deps.json
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.runtimeconfig.json
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.DataAccess.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Entities.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\bin\Debug\net8.0\Zust.Entities.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.csproj.CopyComplete
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\refint\Zust.DataAccess.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\Zust.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.DataAccess\obj\Debug\net8.0\ref\Zust.DataAccess.dll

@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BF0C7C-37BD-408E-8AD6-2AF2C02754DF}|ZustProject\\ZustProject.csproj|c:\\users\\azcomp\\desktop\\zusttask (1)\\zustproject\\zustproject\\migrations\\20241005162547_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BF0C7C-37BD-408E-8AD6-2AF2C02754DF}|ZustProject\\ZustProject.csproj|solutionrelative:zustproject\\migrations\\20241005162547_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3003451-5895-4A33-85E0-A979417CDF97}|Zust.DataAccess\\Zust.DataAccess.csproj|c:\\users\\azcomp\\desktop\\zusttask (1)\\zustproject\\zust.dataaccess\\data\\zustdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3003451-5895-4A33-85E0-A979417CDF97}|Zust.DataAccess\\Zust.DataAccess.csproj|solutionrelative:zust.dataaccess\\data\\zustdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BF0C7C-37BD-408E-8AD6-2AF2C02754DF}|ZustProject\\ZustProject.csproj|c:\\users\\azcomp\\desktop\\zusttask (1)\\zustproject\\zustproject\\zustproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40BF0C7C-37BD-408E-8AD6-2AF2C02754DF}|ZustProject\\ZustProject.csproj|solutionrelative:zustproject\\zustproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C76986-0101-40FE-9892-458CC2FFB743}|Zust.Entities\\Zust.Entities.csproj|c:\\users\\azcomp\\desktop\\zusttask (1)\\zustproject\\zust.entities\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C76986-0101-40FE-9892-458CC2FFB743}|Zust.Entities\\Zust.Entities.csproj|solutionrelative:zust.entities\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C76986-0101-40FE-9892-458CC2FFB743}|Zust.Entities\\Zust.Entities.csproj|c:\\users\\azcomp\\desktop\\zusttask (1)\\zustproject\\zust.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C76986-0101-40FE-9892-458CC2FFB743}|Zust.Entities\\Zust.Entities.csproj|solutionrelative:zust.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C76986-0101-40FE-9892-458CC2FFB743}|Zust.Entities\\Zust.Entities.csproj|c:\\users\\azcomp\\desktop\\zusttask (1)\\zustproject\\zust.entities\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C76986-0101-40FE-9892-458CC2FFB743}|Zust.Entities\\Zust.Entities.csproj|solutionrelative:zust.entities\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BF0C7C-37BD-408E-8AD6-2AF2C02754DF}|ZustProject\\ZustProject.csproj|c:\\users\\azcomp\\desktop\\zusttask (1)\\zustproject\\zustproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BF0C7C-37BD-408E-8AD6-2AF2C02754DF}|ZustProject\\ZustProject.csproj|solutionrelative:zustproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BF0C7C-37BD-408E-8AD6-2AF2C02754DF}|ZustProject\\ZustProject.csproj|c:\\users\\azcomp\\desktop\\zusttask (1)\\zustproject\\zustproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40BF0C7C-37BD-408E-8AD6-2AF2C02754DF}|ZustProject\\ZustProject.csproj|solutionrelative:zustproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241005162547_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\ZustProject\\Migrations\\20241005162547_mig1.cs",
+              "RelativeDocumentMoniker": "ZustProject\\Migrations\\20241005162547_mig1.cs",
+              "ToolTip": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\ZustProject\\Migrations\\20241005162547_mig1.cs",
+              "RelativeToolTip": "ZustProject\\Migrations\\20241005162547_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:25:48.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\Zust.Entities\\Entities\\Chat.cs",
+              "RelativeDocumentMoniker": "Zust.Entities\\Entities\\Chat.cs",
+              "ToolTip": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\Zust.Entities\\Entities\\Chat.cs",
+              "RelativeToolTip": "Zust.Entities\\Entities\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:22:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\Zust.Entities\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Zust.Entities\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\Zust.Entities\\Entities\\Message.cs",
+              "RelativeToolTip": "Zust.Entities\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:19:40.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\Zust.Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Zust.Entities\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\Zust.Entities\\Entities\\User.cs",
+              "RelativeToolTip": "Zust.Entities\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:19:32.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZustProject",
+              "DocumentMoniker": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\ZustProject\\ZustProject.csproj",
+              "RelativeDocumentMoniker": "ZustProject\\ZustProject.csproj",
+              "ToolTip": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\ZustProject\\ZustProject.csproj",
+              "RelativeToolTip": "ZustProject\\ZustProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T16:14:13.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZustDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\Zust.DataAccess\\Data\\ZustDbContext.cs",
+              "RelativeDocumentMoniker": "Zust.DataAccess\\Data\\ZustDbContext.cs",
+              "ToolTip": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\Zust.DataAccess\\Data\\ZustDbContext.cs",
+              "RelativeToolTip": "Zust.DataAccess\\Data\\ZustDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:56:59.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\ZustProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ZustProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\ZustProject\\appsettings.json",
+              "RelativeToolTip": "ZustProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T15:54:56.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\ZustProject\\Program.cs",
+              "RelativeDocumentMoniker": "ZustProject\\Program.cs",
+              "ToolTip": "C:\\Users\\AzComp\\Desktop\\ZustTask (1)\\ZustProject\\ZustProject\\Program.cs",
+              "RelativeToolTip": "ZustProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:53:13.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

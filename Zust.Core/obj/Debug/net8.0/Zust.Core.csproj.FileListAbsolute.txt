@@ -1,0 +1,43 @@
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.deps.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.runtimeconfig.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.sourcelink.json
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\refint\Zust.Core.dll
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ASP Tasks\ZustProject\Zust.Core\obj\Debug\net8.0\ref\Zust.Core.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.deps.json
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.runtimeconfig.json
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.csproj.AssemblyReference.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.AssemblyInfoInputs.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.AssemblyInfo.cs
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.csproj.CoreCompileInputs.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\refint\Zust.Core.dll
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.pdb
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.genruntimeconfig.cache
+C:\Users\AzComp\Desktop\ZustTask (1)\ZustProject\Zust.Core\obj\Debug\net8.0\ref\Zust.Core.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.deps.json
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.runtimeconfig.json
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\bin\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\refint\Zust.Core.dll
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.pdb
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\Zust.Core.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ZustProject\Zust.Core\obj\Debug\net8.0\ref\Zust.Core.dll
